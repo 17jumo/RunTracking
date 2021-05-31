@@ -1,0 +1,84 @@
+body {
+    background-color: #FFF;
+    color: #3F70B9;
+}
+
+#header {
+    color: #3F70B9;
+}
+
+.note {
+    text-align: left;
+    height: 160px;
+    background: #05bc71;
+    color: #007bff;
+    font-weight: bold;
+    padding: 1%;
+    width: 100%;
+    border: none;
+}
+.form-content {
+    padding: 5%;
+    border: 1px solid #ced4da;
+    margin-bottom: 2%;
+}
+.form-control{
+    /*border-radius:1.5rem;*/
+}
+.btnSubmit {
+    border:none;
+    border-radius:1.5rem;
+    padding: 1%;
+    width: 20%;
+    cursor: pointer;
+    background: #3d5a80;
+    color: #293241;
+}
+
+#top {
+    color: rgba(245, 253, 252, 0.55);
+    font-weight: bold;
+}
+
+top {
+    color: red;
+    font-weight: bold;
+}
+
+/*a:hover {*/
+/*    color: white;*/
+/*    text-decoration: none;*/
+/*}*/
+
+.stdtable {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    background-color: #3F70B9;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #FFF;
+}
+
+tr:nth-child(odd) {
+    background-color: #ddeeff;
+}
+
+.card-body {
+    background-color: #3F70B9;
+    color: white;
+}
+
+#cardtable {
+    background-color: #0484FC;
+    color: white;
+}
